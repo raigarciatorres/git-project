@@ -1,7 +1,6 @@
 
 <body>
     <h1>Esta página será útil apenas para mostrar oscomandos que sei utilizar dentro do Git.</h1>
-    <h2>no meu repo você pode acompanhar os comandos utilizados</h2>
     <p>Aqui segue a lista dos comandos que já sei utilizar:
         <ul>
             <li><code>git status</code></li>
