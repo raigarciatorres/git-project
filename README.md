@@ -14,7 +14,7 @@
         </ul>
     </p>
     <h2>esta é uma linha adicional para usar o comando <code>git add .</code> e <code>git commit -m " "</code></h2>
-    <p>primeiro usa-se o git status e verifica que á um arquivo modificado. Depois, é só usar <code>git add .</code> e, em seguida, <code>git commmit -m "(msg aqui)"</code></p>
+    <p>primeiro usa-se o git status e verifica que há um arquivo modificado. Depois, é só usar <code>git add .</code> e, em seguida, <code>git commmit -m "(msg aqui)"</code></p>
     <p>para voltar a uma versão anterior, usa-se o comando <code>git reset --hard (id aqui)</code>, onde o id é conhecido a partir do comando <code>git reflog</code></p>
     <h1>branches</h1>
     <p>o conceito de branch é muito interessante, em que é poss~ivel "clonar" uma versão para alterar sem ter que alterar a versão "oficial". Dessa forma, tenta-se garantir a integridade.</p>
