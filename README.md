@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Meus estudos de Git</title>
-</head>
+
 <body>
     <h1>Esta página será útil apenas para mostrar oscomandos que sei utilizar dentro do Git.</h1>
     <h2>no meu repo você pode acompanhar os comandos utilizados</h2>
